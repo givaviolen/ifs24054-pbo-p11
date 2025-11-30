@@ -10,6 +10,9 @@
 
 - Melakukan inisialisasi proyek
 
+### Update Final P11
+- Menambahkan sistem cash flow
+- Menambahkan UI dari sistem cash flow
 
 ## Syntax
 
